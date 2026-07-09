@@ -1,5 +1,5 @@
 Markdown
-# projectthais - Application iOS
+# WePlot - Application iOS
 
 Bienvenue sur la page officielle de l'application **WePlot**.
 
